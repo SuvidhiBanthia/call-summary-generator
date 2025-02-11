@@ -1,0 +1,5 @@
+django 
+djangorestframework 
+pydub 
+transformers 
+sentence-transformers
